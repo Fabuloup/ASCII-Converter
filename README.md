@@ -14,7 +14,7 @@ A lightweight web tool that transforms images into ASCII art with optional outli
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/yourusername/ASCII-Converter.git
+   git clone https://github.com/Fabuloup/ASCII-Converter.git
    ```
 
 2. Open `index.html` in your browser.
